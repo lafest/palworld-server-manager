@@ -5,7 +5,11 @@
   "repository": "https://github.com/lafest/palworld-server-manager.git",
   "author": "lafest <dnl9807@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
   "devDependencies": {
+    "ts-node": "^10.9.2",
     "typescript": "^5.5.4"
   },
   "dependencies": {
