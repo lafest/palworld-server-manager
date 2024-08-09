@@ -1,0 +1,11 @@
+{
+  "name": "palworld-server-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lafest/palworld-server-manager.git",
+  "author": "lafest <dnl9807@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
